@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618873317150",
+    "project_id": "aman-practice",
+    "storage_bucket": "aman-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618873317150:android:7f41dc63fb85a7b5bdcb0f",
+        "android_client_info": {
+          "package_name": "com.bhai.aman.atomdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618873317150-3bh7cptrgbdk5rgree33nomsiqchtv0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCztHR7AumV-mPPlc0A2rrVKgRdr3a0NVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618873317150-3bh7cptrgbdk5rgree33nomsiqchtv0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
